@@ -1,5 +1,6 @@
 # Specialization In Data Science and Machine Learning
 
+#### Oscar J. O. Ayala 
 #### University of Michigan
 
 This specialization from the **University of Michigan** teaches data science using Python. Aimed at students with knowledge in `Python`, it covers statistics, *machine learning*, *data visualization*, *text analysis*, and *social network analysis* using popular libraries such as `pandas`, `matplotlib`, `scikit-learn`, `nltk`, and `networkx`.
